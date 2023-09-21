@@ -4,3 +4,8 @@ print("hello world")
 
 print(numbers)
 
+library(tidyverse)
+
+installed.packages()
+
+sum(numbers)
